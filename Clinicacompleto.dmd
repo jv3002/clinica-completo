@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Clinicacompleto" id="95F516FC-F325-2BAD-BD1F-946C03F05995" version="3.5">
+<createdBy>jeiso</createdBy>
+<createdTime>2025-09-15 16:48:15 UTC</createdTime>
+<ownerDesignName>Clinicacompleto</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>95F516FC-F325-2BAD-BD1F-946C03F05995</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="1D02F486-87F5-EDA1-F17A-7502A8AA94FA">
+<designStoragePath>C:\Clinica</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
